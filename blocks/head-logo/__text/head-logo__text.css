@@ -1,0 +1,6 @@
+.head-logo__text {
+  margin: 0;
+  font-weight: 700;
+  font-size: 32px;
+  color: var(--logo-white);
+}

@@ -1,0 +1,8 @@
+.link {
+  margin: 0;
+  text-decoration: none;
+  color: var(--wh);
+  font-size: 14px;
+  font-weight: 700;
+  height: 14px;
+}

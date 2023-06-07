@@ -1,0 +1,9 @@
+.bg__red-up {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background-color: var(--red);
+  top: 74px;
+  right: 219px;
+}

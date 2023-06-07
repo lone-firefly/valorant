@@ -1,12 +1,41 @@
-@import '../vendor/normalize.css';
-@import '../vendor/variables.css';
-@import '../vendor/fonts/fonts.css';
-/* Blocks */ 
-@import '../blocks/page/page.css';
-/* Header */ 
-@import '../blocks/header/header.css';
-@import '../blocks/header/__title/header__title.css';
+@import "../vendor/normalize.css";
+@import "../vendor/variables.css";
+@import "../vendor/fonts/fonts.css";
+/* Blocks */
+@import "../blocks/page/page.css";
+/* Link */
+@import "../blocks/link/link.css";
+/* Header */
+@import "../blocks/header/header.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__logo-riot/header__logo-riot.css";
+@import "../blocks/header/__line/header__line.css";
+@import "../blocks/header/__logo/header__logo.css";
+@import "../blocks/header/__nav/header__nav.css";
+@import "../blocks/header/__lists/header__lists.css";
+@import "../blocks/header/__list/header__list.css";
+@import "../blocks/header/__link/header__link.css";
+@import "../blocks/header/__list-wide/header__list-wide.css";
+@import "../blocks/header/__link-group/header__link-group.css";
+@import "../blocks/header/__triangle/header__triangle.css";
+@import "../blocks/header/__acc-group/header__acc-group.css";
+@import "../blocks/header/__img-ava/header__img-ava.css";
+/* head-logo */
+@import "../blocks/head-logo/head-logo.css";
+@import "../blocks/head-logo/__logo/head-logo__logo.css";
+@import "../blocks/head-logo/__text/head-logo__text.css";
+
 /* Main */
-@import '../blocks/main/main.css';
+@import "../blocks/main/main.css";
+/* Bg */
+@import "../blocks/bg/bg.css";
+@import "../blocks/bg/__grey-big/bg__grey-big.css";
+@import "../blocks/bg/__grey-down/bg__grey-down.css";
+@import "../blocks/bg/__grey-up/bg__grey-up.css";
+@import "../blocks/bg/__red-big/bg__red-big.css";
+@import "../blocks/bg/__red-up/bg__red-up.css";
+@import "../blocks/bg/__white-down/bg__white-down.css";
+@import "../blocks/bg/__white-up/bg__white-up.css";
+
 /* Footer */
-@import '../blocks/footer/footer.css';
+@import "../blocks/footer/footer.css";

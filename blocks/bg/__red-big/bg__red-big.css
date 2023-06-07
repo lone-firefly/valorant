@@ -1,0 +1,9 @@
+.bg__red-big {
+  position: absolute;
+  width: 2215px;
+  height: 2216px;
+  border-radius: 50%;
+  background-color: var(--red);
+  top: -711px;
+  left: -385px;
+}

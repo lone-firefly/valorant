@@ -1,0 +1,9 @@
+.bg__grey-up {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  border-radius: 50%;
+  background-color: var(--grey);
+  top: 475px;
+  right: 55px;
+}

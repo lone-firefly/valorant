@@ -1,0 +1,9 @@
+.bg__white-up {
+  position: absolute;
+  width: 268px;
+  height: 269px;
+  border-radius: 50%;
+  background-color: var(--white);
+  top: 182px;
+  right: 104px;
+}

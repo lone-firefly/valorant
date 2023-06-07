@@ -1,0 +1,9 @@
+.bg__grey-big {
+  position: absolute;
+  width: 1443px;
+  height: 1443px;
+  border-radius: 50%;
+  background-color: var(--dark-grey);
+  bottom: -512px;
+  right: -362px;
+}

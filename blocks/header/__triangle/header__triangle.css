@@ -1,0 +1,7 @@
+.header__triangle {
+  width: 0;
+  height: 0;
+  border-left: 5.41px solid transparent;
+  border-right: 5.41px solid transparent;
+  border-top: 4.5px solid var(--wh);
+}

@@ -1,0 +1,9 @@
+.bg__grey-down {
+  position: absolute;
+  width: 63px;
+  height: 63px;
+  border-radius: 50%;
+  background-color: var(--grey);
+  bottom: 178px;
+  left: 112px;
+}
