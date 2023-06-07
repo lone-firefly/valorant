@@ -24,7 +24,6 @@
 @import "../blocks/head-logo/head-logo.css";
 @import "../blocks/head-logo/__logo/head-logo__logo.css";
 @import "../blocks/head-logo/__text/head-logo__text.css";
-
 /* Main */
 @import "../blocks/main/main.css";
 /* Bg */
@@ -36,6 +35,12 @@
 @import "../blocks/bg/__red-up/bg__red-up.css";
 @import "../blocks/bg/__white-down/bg__white-down.css";
 @import "../blocks/bg/__white-up/bg__white-up.css";
-
+/* Base */
+@import "../blocks/base/base.css";
+@import "../blocks/base/__bg-white/base__bg-white.css";
+@import "../blocks/base/__bg-pink/base__bg-pink.css";
+@import "../blocks/base/__bg-img/base__bg-img.css";
+@import "../blocks/base/__bg/base__bg.css";
+@import "../blocks/base/__elem-img/base__elem-img.css";
 /* Footer */
 @import "../blocks/footer/footer.css";

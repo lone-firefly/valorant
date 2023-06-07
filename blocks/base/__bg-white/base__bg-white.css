@@ -1,0 +1,11 @@
+.base__bg-white {
+  position: absolute;
+  top: 304px;
+  right: 219px;
+  z-index: 2;
+  background-color: var(--bg-wh);
+  box-shadow: 10px 10px 80px rgba(0, 0, 0, 0.5);
+  width: 2659px;
+  height: 1715px;
+  border-radius: 32px;
+}

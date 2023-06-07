@@ -1,0 +1,10 @@
+.base__bg-pink {
+  position: absolute;
+  top: 304px;
+  right: 219px;
+  z-index: 3;
+  background-color: var(--red);
+  width: 2660px;
+  height: 1715px;
+  border-radius: 32px;
+}
