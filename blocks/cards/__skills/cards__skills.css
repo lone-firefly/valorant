@@ -1,0 +1,15 @@
+.cards__skills {
+  position: absolute;
+  z-index: 3;
+  bottom: -35px;
+  left: 31px;
+  width: 440px;
+  height: 110px;
+  background-color: var(--bg);
+  border: 2px solid var(--logo-white);
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 19px 42px;
+  gap: 47px;
+}

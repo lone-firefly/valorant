@@ -1,0 +1,9 @@
+.cards {
+  position: absolute;
+  top: 548px;
+  right: 185px;
+  left: 722px;
+  z-index: 7;
+  display: flex;
+  gap: 144px;
+}

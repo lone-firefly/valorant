@@ -1,0 +1,9 @@
+.cards__name-gr {
+  rotate: 90deg;
+  position: absolute;
+  top: 234.5px; /* половинка ширины - половинка высоты */
+  left: -235.5px;
+  z-index: 2;
+  display: grid;
+  gap: 0;
+}

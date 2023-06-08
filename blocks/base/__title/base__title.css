@@ -1,0 +1,15 @@
+.base__title {
+  position: absolute;
+  z-index: 6;
+  top: 940px;
+  left: 25px;
+  letter-spacing: 0.1em;
+  font-family: "druk-wide", sans-serif;
+  font-size: 150px;
+  -webkit-text-stroke: 2px var(--wh);
+  color: transparent;
+  width: 1015px;
+  height: 210px;
+  margin: 0;
+  rotate: 90deg;
+}

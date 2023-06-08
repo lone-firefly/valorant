@@ -1,0 +1,9 @@
+.cards__country {
+  margin: 0;
+  font-family: "druk-wide", sans-serif;
+  font-size: 22px;
+  width: 294px;
+  height: 31px;
+  letter-spacing: 0.1em;
+  color: var(--red);
+}

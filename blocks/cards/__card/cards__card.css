@@ -1,0 +1,6 @@
+.cards__card {
+  position: relative;
+  width: 440px;
+  height: 990px;
+  background-color: var(--bg);
+}

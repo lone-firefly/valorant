@@ -42,5 +42,21 @@
 @import "../blocks/base/__bg-img/base__bg-img.css";
 @import "../blocks/base/__bg/base__bg.css";
 @import "../blocks/base/__elem-img/base__elem-img.css";
+@import "../blocks/base/__title/base__title.css";
+/* Cards */
+@import "../blocks/cards/cards.css";
+@import "../blocks/cards/__card/cards__card.css";
+@import "../blocks/cards/__card/_click/cards__card_click.css";
+@import "../blocks/cards/__title/cards__title.css";
+@import "../blocks/cards/__title/_click/cards__title_click.css";
+@import "../blocks/cards/__country/cards__country.css";
+@import "../blocks/cards/__bg/cards__bg.css";
+@import "../blocks/cards/__agent/cards__agent.css";
+@import "../blocks/cards/__agent/_jett/cards__agent_jett.css";
+@import "../blocks/cards/__skills/cards__skills.css";
+@import "../blocks/cards/__skills/_click/cards__skills_click.css";
+@import "../blocks/cards/__logo/cards__logo.css";
+@import "../blocks/cards/__name-gr/cards__name-gr.css";
+
 /* Footer */
 @import "../blocks/footer/footer.css";

@@ -1,0 +1,3 @@
+.cards__title_click {
+  -webkit-text-stroke: 2px var(--bg);
+}
